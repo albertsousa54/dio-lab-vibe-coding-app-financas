@@ -1,4 +1,4 @@
-# 💸 Criando um App para Organização das Finanças Pessoais com Vibe Coding. Desafio do BootCampo da DIO.
+# 💸 Criando um App para Organização das Finanças Pessoais com Vibe Coding. Desafio do BootCamp da DIO.
 
 ## ✨ O que é Vibe Coding
 
